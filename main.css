@@ -12,7 +12,33 @@ body {
 	max-width: 720px;
 }
 
+h1 {
+	background: #EEE;
+	font-size: 150%;
+	margin: 0;
+	padding: 24px 0 16px;
+	border-bottom: 1px solid #999;
+}
+
+body>h1 {
+	position: sticky;
+	top: 0;
+}
+
+h2 {
+	background: #EEE;
+	font-size: 125%;
+	margin: 0;
+	padding: 16px 0 8px;
+	border-bottom: 1px solid #CCC;
+}
+
 p {
 	line-height: 1.5;
 	margin: 8px 0;
+}
+
+.footer {
+	font-size: 60%;
+	text-align: end;
 }
