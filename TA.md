@@ -4,7 +4,7 @@
 Panduan ini dibuat berdasarkan pengalaman teman-teman angkatan 2018 yang sudah melaksanakan rangkaian tugas akhir, dari seminar proposal hingga mendapat nilai TA. Masih ada kemungkinan perubahan dari panduan ini, terlebih akibat pemindahan prodi dari FMIPA ke FTISD.
 
 - Pertama ditulis: 10 Agustus 2022
-- Terakhir diedit: 10 Agustus 2022 (revisi 1)
+- Terakhir diedit: 14 Agustus 2022 (revisi 2)
 
 
 ## Sebelum Memulai
@@ -29,7 +29,7 @@ Tiap tugas akhir butuh 1–2 dosen pembimbing. Dosen-dosen pembimbing ini dipili
 
 
 ## Seminar Proposal
-Seminar proposal adalah tahap pengujian kelayakan tugas akhir oleh calon dosen pembimbing dan penguji. Secara umum, seminar proposal membahas latar belakang, dasar teori, dan metodologi penelitian (bab I–III). Seminar ini bersifat tertutup (tanpa penonton).
+Seminar proposal adalah tahap pengujian kelayakan tugas akhir oleh calon dosen pembimbing dan penguji. Secara umum, seminar proposal membahas latar belakang, dasar teori, dan metodologi penelitian (bab I–III). Seminar ini bersifat tertutup (tanpa penonton mahasiswa).
 
 Apabila proposal tugas akhir disetujui, mahasiswa dipersilakan untuk memulai pengerjaan tugas akhirnya. Namun, apabila ia tidak disetujui, mahasiswa dipersilakan untuk mengganti tema/judul dan mengadakan seminar proposal lagi.
 
@@ -47,7 +47,7 @@ Proses pendaftaran dilakukan dengan menghubungi Divisi TA (Bu Esti), mengumpulka
 
 Navigasi di Silat:
 
-1. Buka https://if.mipa.uns.ac.id/silat
+1. Buka web Silat (https://if.mipa.uns.ac.id/silat)
 2. Klik Login di panel kiri dan masuk via SSO.
 3. Klik Dashboard Mahasiswa/Alumni di panel kiri.
 4. Klik Data Tugas Akhir (TA).
@@ -55,6 +55,10 @@ Navigasi di Silat:
 6. Klik Seminar Proposal.
 7. Klik Upload untuk tiap dokumen.
 8. Klik Kirim kepada Divisi TA.
+
+![panduan menu navigasi](aset/TA/silat-menu-usulanTA.png "Dashboard Mahasiswa/Alumni -> Data Tugas Akhir (TA) -> Usulan/Pendaftaran TA")
+
+![panduan tombol seminar](aset/TA/silat-menu-TA-1sempro.png "Tombol Seminar Proposal")
 
 Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari para dosen setelah dapat tanggalnya untuk memastikan kehadiran mereka.
 
@@ -65,6 +69,8 @@ Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari par
 - Seminar proposal bersifat tertutup selama 60 menit.
 - Presentasi oleh mahasiswa selama 15 menit.
 - Tanya jawab dengan dosen penguji selama 45 menit.
+
+⚠ **PERINGATAN:** Sebaiknya, JANGAN memberi bingkisan kepada dosen dalam bentuk apa pun!
 
 
 ## Selama Pengerjaan
@@ -91,7 +97,7 @@ Selama penulisan, perhatikan betul ejaan dan tata bahasa yang dipakai. Selain it
 
 
 ## Seminar Hasil
-Seminar hasil adalah tahap pengujian hasil tugas akhir oleh dosen pembimbing dan masyarakat Prodi Informatika. Seminar ini ditujukan untuk memberi wawasan/gambaran kepada yang belum melakukan tugas akhir. Seminar ini bersifat tertutup (dengan penonton).
+Seminar hasil adalah tahap pengujian hasil tugas akhir oleh dosen pembimbing dan masyarakat Prodi Informatika. Seminar ini ditujukan untuk memberi wawasan/gambaran kepada yang belum melakukan tugas akhir. Seminar ini bersifat terbuka (dengan penonton mahasiswa).
 
 ### Persyaratan Administrasi
 Hal-hal yang perlu dikumpulkan (melalui Silat) sebelum bisa mendaftar seminar hasil antara lain
@@ -109,7 +115,7 @@ Proses pendaftaran dilakukan dengan menghubungi Divisi TA (Bu Esti), mengumpulka
 
 Navigasi di Silat:
 
-1. Buka https://if.mipa.uns.ac.id/silat
+1. Buka web Silat (https://if.mipa.uns.ac.id/silat)
 2. Klik Login di panel kiri dan masuk via SSO.
 3. Klik Dashboard Mahasiswa/Alumni di panel kiri.
 4. Klik Data Tugas Akhir (TA).
@@ -117,6 +123,10 @@ Navigasi di Silat:
 6. Klik Seminar Hasil.
 7. Klik Upload untuk tiap dokumen.
 8. Klik Kirim kepada Divisi TA.
+
+![panduan menu navigasi](aset/TA/silat-menu-usulanTA.png "Dashboard Mahasiswa/Alumni -> Data Tugas Akhir (TA) -> Usulan/Pendaftaran TA")
+
+![panduan tombol sidang](aset/TA/silat-menu-TA-2semhas.png "Tombol Seminar Hasil")
 
 Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari para dosen setelah dapat tanggalnya untuk memastikan kehadiran mereka.
 
@@ -129,12 +139,14 @@ Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari par
 - Presentasi dan demo oleh mahasiswa selama 20 menit.
 - Tanya jawab dengan dosen dan peserta selama 70 menit.
 
+⚠ **PERINGATAN:** Sebaiknya, JANGAN memberi bingkisan kepada dosen dalam bentuk apa pun!
+
 ### Setelah Seminar Hasil
 Setelah seminar hasil, mahasiswa diminta untuk melakukan revisi secepatnya sehingga bisa segera melakukan sidang pendadaran.
 
 
 ## Sidang Pendadaran
-Sidang pendadaran (pengujian) adalah tahap pengujian hasil tugas akhir oleh dosen pembimbing dan penguji. Dalam sidang ini, mahasiswa mempertahankan hasil tugas akhirnya dari pengujian oleh para dosen. Sidang ini bersifat tertutup (tanpa penonton).
+Sidang pendadaran (pengujian) adalah tahap pengujian hasil tugas akhir oleh dosen pembimbing dan penguji. Dalam sidang ini, mahasiswa mempertahankan hasil tugas akhirnya dari pengujian oleh para dosen. Sidang ini bersifat tertutup (tanpa penonton mahasiswa).
 
 Apabila hasil tugas akhir berhasil dipertahankan, mahasiswa dipersilakan untuk lulus. Namun, apabila ia gagal dipertahankan, mahasiswa dipersilakan untuk revisi terlebih dahulu.
 
@@ -152,7 +164,7 @@ Proses pendaftaran dilakukan dengan menghubungi Divisi TA (Bu Esti), mengumpulka
 
 Navigasi di Silat:
 
-1. Buka https://if.mipa.uns.ac.id/silat
+1. Buka web Silat (https://if.mipa.uns.ac.id/silat)
 2. Klik Login di panel kiri dan masuk via SSO.
 3. Klik Dashboard Mahasiswa/Alumni di panel kiri.
 4. Klik Data Tugas Akhir (TA).
@@ -160,6 +172,10 @@ Navigasi di Silat:
 6. Klik Sidang Pendadaran.
 7. Klik Upload untuk tiap dokumen.
 8. Klik Kirim kepada Divisi TA.
+
+![panduan menu navigasi](aset/TA/silat-menu-usulanTA.png "Dashboard Mahasiswa/Alumni -> Data Tugas Akhir (TA) -> Usulan/Pendaftaran TA")
+
+![panduan tombol seminar](aset/TA/silat-menu-TA-3sidang.png "Tombol Sidang Pendadaran")
 
 Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari para dosen setelah dapat tanggalnya untuk memastikan kehadiran mereka.
 
@@ -171,6 +187,8 @@ Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari par
 - Sidang pendadaran bersifat tertutup selama 120 menit.
 - Presentasi dan demo oleh mahasiswa selama 20 menit.
 - Tanya jawab dengan dosen dan peserta selama 100 menit.
+
+⚠ **PERINGATAN:** Sebaiknya, JANGAN memberi bingkisan kepada dosen dalam bentuk apa pun!
 
 ### Setelah Sidang Pendadaran
 Setelah sidang pendadaran, mahasiswa diminta untuk melakukan revisi secepatnya sehingga bisa ditanggapi atau disetujui oleh para dosen pembimbing dan penguji. Batas pengumpulan revisi 1 bulan (30 hari) sejak tanggal sidang.
