@@ -1,18 +1,18 @@
-* {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-}
-
 html {
-	background: #EEE;
+	background: #DDD;
 }
 
 body {
-	margin: 24px auto;
+	background: #EEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0 auto;
 	max-width: 720px;
+	padding: 24px 16px;
+	text-align: justify;
 }
 
-h1 {
+h1, h2 {
 	background: #EEE;
 	font-size: 150%;
 	margin: 0;
@@ -20,12 +20,17 @@ h1 {
 	border-bottom: 1px solid #999;
 }
 
-body>h1 {
+section h2 {
 	position: sticky;
 	top: 0;
 }
 
-h2 {
+section h2.sticky {
+	height: 28px;
+	overflow: hidden;
+}
+
+h3 {
 	background: #EEE;
 	font-size: 125%;
 	margin: 0;
@@ -33,12 +38,45 @@ h2 {
 	border-bottom: 1px solid #CCC;
 }
 
+aside {
+	border: 1px solid #666;
+	clear: right;
+	float: right;
+	margin: 8px 0 8px 16px;
+	padding: 4px;
+	width: fit-content;
+}
+
+aside table th, aside table td {
+	font-size: 70%;
+	padding: 2px 4px;
+	vertical-align: top;
+}
+
 p {
 	line-height: 1.5;
 	margin: 8px 0;
 }
 
-.footer {
+li {
+	line-height: 1.5;
+}
+
+.italic {
+	font-style: italic;
+}
+
+footer {
+	border-top: 2px solid #666;
 	font-size: 60%;
+	margin-top: 24px;
+	padding: 8px 0;
 	text-align: end;
+}
+
+@media (max-width: 640px) {
+	aside {
+		float: none;
+		margin: 16px 0;
+	}
 }
