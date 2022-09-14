@@ -103,7 +103,7 @@ Selain itu, ada beberapa hal yang bisa dicicil selama pengerjaan:
 - Form TA-05 (Pantuan Pembimbingan TA).
 
 ### Laporan dan Artikel
-Laporan tugas akhir punya format khusus. Sistematika penulisannya bisa dilihat di pedoman yang ada di Silat.
+Laporan tugas akhir punya format khusus. Sistematika penulisannya bisa dilihat di pedoman yang ada di Silat. Contoh laporan tugas akhir bisa dilihat [di sini](aset/TA/templat/Templat%20Laporan%20Tugas%20Akhir.docx) (atau di Drive Catatan Kuliah Infics).
 
 Artikel tugas akhir memakai format _IEEE Transactions_.
 
