@@ -81,11 +81,26 @@ li {
 	line-height: 1.5;
 }
 
+.peringatan, .tip {
+	font-size: 80%;
+	padding: 8px 16px;
+}
+
 .peringatan {
 	background-color: lightyellow;
 	border: 1px solid yellow;
+}
+
+.tip {
+	background-color: azure;
+	border: 1px solid skyblue;
+}
+
+.ket-asal {
+	background-color: azure;
+	border: 1px solid lightskyblue;
 	font-size: 80%;
-	padding: 8px 16px;
+	padding: 1px 2px;
 }
 
 .italic {

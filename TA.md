@@ -4,7 +4,7 @@
 Panduan ini dibuat berdasarkan pengalaman teman-teman angkatan 2018 yang sudah melaksanakan rangkaian tugas akhir, dari seminar proposal hingga mendapat nilai TA. Masih ada kemungkinan perubahan dari panduan ini, terlebih akibat pemindahan prodi dari FMIPA ke FTISD.
 
 - Pertama ditulis: 10 Agustus 2022
-- Terakhir diedit: 14 Agustus 2022 (revisi 2)
+- Terakhir diedit: 14 September 2022 (revisi 3)
 
 
 ## Sebelum Memulai
@@ -62,8 +62,22 @@ Navigasi di Silat:
 
 Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari para dosen setelah dapat tanggalnya untuk memastikan kehadiran mereka.
 
+### Persiapan Presentasi
+Presentasi seminar proposal disusun padat dan tidak terlalu panjang. Presentasinya setidaknya memuat hal-hal berikut:
+
+- Rumusan masalah</li>
+- Batasan, tujuan, dan manfaat penelitian
+- Penelitian terkait/sebelumnya
+- Dasar teori pokok
+- Metodologi yang digunakan beserta alasannya
+- Rencana waktu penelitian
+- Daftar pustaka
+
+ℹ️ **Tip:** Agar perujukan saat tanya jawab lebih mudah, sebaiknya ditambahkan nomor halaman untuk tiap _slide_.
+
 ### Hari H
 - Ingatkan para dosen maks. 2 jam sebelum jadwal.
+- Pakai atasan kemeja polos dan bawahan hitam/gelap.
 - Pastikan datang maks. 30 menit sebelum jadwal.
 - Persiapkan tempat/ruang seminar.
 - Seminar proposal bersifat tertutup selama 60 menit.
@@ -130,9 +144,24 @@ Navigasi di Silat:
 
 Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari para dosen setelah dapat tanggalnya untuk memastikan kehadiran mereka.
 
+### Persiapan Presentasi
+Presentasi seminar hasil disusun padat dan tidak terlalu panjang. Perlu diingat bahwa yang menontonnya bukan hanya para dosen, melainkan juga mahasiswa. Presentasinya setidaknya memuat hal-hal berikut:
+
+- Rumusan masalah
+- Batasan dan tujuan penelitian
+- Metodologi penelitian
+- Penjelasan per langkah penelitian:
+  -  Metode pengumpulan data (cara, alat/instrumen, data yang dibutuhkan, dan hasil pengumpulannya)
+  -  Hasil dan ringkasan data
+  -  Pembahasan/analisis data (teknik dan rangkuman pembahasan)
+- Kesulitan/kemudahan selama penelitian
+
+ℹ️ **Tip:** Agar perujukan saat tanya jawab lebih mudah, sebaiknya ditambahkan nomor halaman untuk tiap _slide_.
+
 ### Hari H
 - Buat pengumuman maks. 1 hari sebelum jadwal. Usahakan min. ada 10 penonton mahasiswa.
 - Ingatkan para dosen maks. 2 jam sebelum jadwal.
+- Pakai atasan kemeja polos dan bawahan hitam/gelap.
 - Pastikan datang maks. 30 menit sebelum jadwal.
 - Persiapkan tempat/ruang seminar.
 - Seminar hasil bersifat terbuka selama 90 menit.
@@ -182,6 +211,7 @@ Setelah pendaftaran, pastikan tanggal sidang sudah didapatkan. Segera kabari par
 ### Hari H
 - Buat pengumuman maks. 1 hari sebelum jadwal.
 - Ingatkan para dosen maks. 2 jam sebelum jadwal.
+- Pakai atasan kemeja polos dan bawahan hitam/gelap.
 - Pastikan datang maks. 30 menit sebelum jadwal.
 - Persiapkan tempat/ruang sidang.
 - Sidang pendadaran bersifat tertutup selama 120 menit.
